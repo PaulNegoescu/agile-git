@@ -11,6 +11,7 @@
 ## Colaboratorii prima data
 - Se duc pe giuthub si copiaza url-ul
 - `git clone <url-ul copiat> [<cale unde sa se cloneze>]`
+- `npm install` / `npm i`
 
 ## Toata lumea cand incepe lucrul la o functionalitate noua
 - `git switch master`
