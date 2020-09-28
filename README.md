@@ -1,2 +1,2 @@
 # Titlu
-## Subtitlu user 2
+## Subtitlu
